@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>XP</title>
+
+</head>
+<body>
+    <h1>Welcome to Windows XP land</h1>
+    <p>Enjoy your stay</p>
+    <br>
+    <a href = "https://trex-runner.com" target="_blank">Become a gamer</a>
+    <img src="https://www.newegg.com/insider/wp-content/uploads/windows_xp_bliss-wide.jpg" width="720" height="480" alt="pilt">
+    <br>
+    <h2>Why you should use Windows XP:</h2>
+    <ul>
+    <li>It looks amazing</li>
+    <li>You feel nostalgic</li>
+    <li>Why not?</li>    
+    </ul>
+    <table border="1">
+        <tr><td>HTML tag</td><td>meaning</td><td>Random emoticon</td></tr>
+        <tr><td>br</td><td>break</td><td>:)</td></tr>
+        <tr><td>a</td><td>anchor</td><td>D:</td></tr>
+        <tr><td colspan="2">table</td><td>>:D</td></tr>
+        <tr><td rowspan="2" colspan="2">Hey</td><td>Hi</td></tr>
+        <tr><td>Hooray</td></tr>
+
+    </table>
+    <a href="leht2.html">Second page</a>
+
+</body>
+</html>
+
